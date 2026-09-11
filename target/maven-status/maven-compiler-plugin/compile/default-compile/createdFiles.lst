@@ -1,0 +1,16 @@
+com\proswipe\controller\JobController.class
+com\proswipe\model\Job.class
+com\proswipe\repository\UserRepository.class
+com\proswipe\controller\HomeController.class
+com\proswipe\model\SkillTest.class
+com\proswipe\config\SecurityConfig.class
+com\proswipe\controller\SkillTestController.class
+com\proswipe\controller\UserController.class
+com\proswipe\repository\JobRepository.class
+com\proswipe\repository\SkillTestRepository.class
+com\proswipe\config\JwtUtil.class
+com\proswipe\repository\ApplicationRepository.class
+com\proswipe\ProSwipeApplication.class
+com\proswipe\model\Application.class
+com\proswipe\controller\ApplicationController.class
+com\proswipe\model\User.class
